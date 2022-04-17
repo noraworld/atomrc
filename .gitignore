@@ -5,3 +5,7 @@ storage
 .apm
 .node-gyp
 .npm
+
+# Files that maybe should not be exposed
+.atom-socket-secret-*
+packages/
