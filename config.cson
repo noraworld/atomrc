@@ -1,0 +1,21 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 16
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "e87ca3b8-8f3b-4071-adf8-78b6ea2734d7"
+  "spell-check":
+    locales: [
+      "ja-JP"
+    ]
+    useLocales: false
+  welcome:
+    showOnStartup: false
